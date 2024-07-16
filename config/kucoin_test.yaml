@@ -1,0 +1,4 @@
+kucoin_secrets:
+  api_key: ""
+  api_secret: "101"
+  pass_phrase: "HFT"

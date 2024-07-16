@@ -1,0 +1,3 @@
+config/kucoin.yaml
+config/database.yaml
+.env

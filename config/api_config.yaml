@@ -1,0 +1,11 @@
+apis:
+  kucoin:
+    domain: "https://api.kucoin.com"
+    endpoints:
+      getUserInfo: "/api/v2/user-info"
+      getOrder: "/api/v1/market/orderbook/level2_20?symbol=BTC-USDT"
+  binance:
+    domain: ""
+    endpoints:
+      getUserInfo: "/api/v2/user-info"
+      getOrder: "/api/v1/market/orderbook/level2_20?symbol=BTC-USDT"
